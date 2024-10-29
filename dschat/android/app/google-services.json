@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293768342717",
+    "project_id": "ds-chat-2b57b",
+    "storage_bucket": "ds-chat-2b57b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293768342717:android:f27ca7b12139bfa91a5bd4",
+        "android_client_info": {
+          "package_name": "com.example.dschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO7sg3ganK5eDcvNvq736-kDG_5CnCuK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
